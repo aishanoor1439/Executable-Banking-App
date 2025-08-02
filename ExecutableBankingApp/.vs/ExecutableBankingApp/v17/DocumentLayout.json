@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\aisha_ppxjc2l\\source\\repos\\ExecutableBankingApp\\",
+  "WorkspaceRootPath": "C:\\Users\\aisha_ppxjc2l\\source\\repos\\Executable-Banking-App\\ExecutableBankingApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{292B2A86-24AB-4D49-996F-207849095849}|ExecutableBankingApp.csproj|c:\\users\\aisha_ppxjc2l\\source\\repos\\executablebankingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{292B2A86-24AB-4D49-996F-207849095849}|ExecutableBankingApp.csproj|c:\\users\\aisha_ppxjc2l\\source\\repos\\executable-banking-app\\executablebankingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{292B2A86-24AB-4D49-996F-207849095849}|ExecutableBankingApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,24 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\aisha_ppxjc2l\\source\\repos\\ExecutableBankingApp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\aisha_ppxjc2l\\source\\repos\\Executable-Banking-App\\ExecutableBankingApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\aisha_ppxjc2l\\source\\repos\\ExecutableBankingApp\\Program.cs",
+              "ToolTip": "C:\\Users\\aisha_ppxjc2l\\source\\repos\\Executable-Banking-App\\ExecutableBankingApp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAAAJIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-31T15:31:45.175Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

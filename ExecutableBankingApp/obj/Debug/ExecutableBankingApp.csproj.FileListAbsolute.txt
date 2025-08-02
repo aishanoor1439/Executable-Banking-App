@@ -1,0 +1,12 @@
+C:\Users\aisha_ppxjc2l\source\repos\Executable-Banking-App\ExecutableBankingApp\bin\Debug\ExecutableBankingApp.exe.config
+C:\Users\aisha_ppxjc2l\source\repos\Executable-Banking-App\ExecutableBankingApp\bin\Debug\ExecutableBankingApp.exe
+C:\Users\aisha_ppxjc2l\source\repos\Executable-Banking-App\ExecutableBankingApp\bin\Debug\ExecutableBankingApp.pdb
+C:\Users\aisha_ppxjc2l\source\repos\Executable-Banking-App\ExecutableBankingApp\bin\Debug\Microsoft.SqlServer.Server.dll
+C:\Users\aisha_ppxjc2l\source\repos\Executable-Banking-App\ExecutableBankingApp\bin\Debug\Microsoft.SqlServer.Server.pdb
+C:\Users\aisha_ppxjc2l\source\repos\Executable-Banking-App\ExecutableBankingApp\bin\Debug\Microsoft.SqlServer.Server.xml
+C:\Users\aisha_ppxjc2l\source\repos\Executable-Banking-App\ExecutableBankingApp\obj\Debug\ExecutableBankingApp.csproj.AssemblyReference.cache
+C:\Users\aisha_ppxjc2l\source\repos\Executable-Banking-App\ExecutableBankingApp\obj\Debug\ExecutableBankingApp.csproj.CoreCompileInputs.cache
+C:\Users\aisha_ppxjc2l\source\repos\Executable-Banking-App\ExecutableBankingApp\obj\Debug\Executab.7AF51BBF.Up2Date
+C:\Users\aisha_ppxjc2l\source\repos\Executable-Banking-App\ExecutableBankingApp\obj\Debug\ExecutableBankingApp.exe
+C:\Users\aisha_ppxjc2l\source\repos\Executable-Banking-App\ExecutableBankingApp\obj\Debug\ExecutableBankingApp.pdb
+C:\Users\aisha_ppxjc2l\source\repos\Executable-Banking-App\ExecutableBankingApp\obj\Debug\ExecutableBankingApp.exe.config
